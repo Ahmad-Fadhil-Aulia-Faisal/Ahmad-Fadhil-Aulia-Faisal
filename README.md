@@ -2,10 +2,17 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=AFAF's%20Profile%20hub&fontColor=ffffff&fontSize=40&fontAlignY=35)
 
-<!-- Typing Animation -->
+<!-- Typing Animation
 <p align="center">
   <a href="https://github.com/Ahmad-Fadhil-Aulia-Faisal">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=DD2727&center=true&vCenter=true&width=600&lines=💻+IT+Professional;⚡+System+Support+%26+Infrastructure;🚀+Future+Fullstack+Developer;📚+Lifelong+Learner;🔥+Code+%7C+Learn+%7C+Repeat" alt="Typing SVG" />
+  </a>
+</p> -->
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/Ahmad-Fadhil-Aulia-Faisal">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=DD2727&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB%20IT%20Professional;%E2%9A%A1%20System%20Support%20%26%20Infrastructure;%F0%9F%9A%80%20Future%20Fullstack%20Developer;%F0%9F%93%9A%20Lifelong%20Learner;%F0%9F%94%A5%20Code%20%7C%20Learn%20%7C%20Repeat" alt="Typing SVG" />
   </a>
 </p>
 
