@@ -45,24 +45,14 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ahmad-Fadhil-Aulia-Faisal&theme=dark&background=000000&hide_border=true&ring=DD2727&fire=DD2727&currStreakLabel=DD2727" alt="streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Fadhil-Aulia-Faisal&show_icons=true&theme=dark&bg_color=000000&hide_border=true&icon_color=DD2727&title_color=DD2727&text_color=FFFFFF" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Fadhil-Aulia-Faisal&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=DD2727&text_color=FFFFFF" alt="Top Langs" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 
-[![Afaf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Fadhil-Aulia-Faisal&theme=react-dark&hide_border=true&bg_color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Fadhil-Aulia-Faisal&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=6" />
+  <img src="https://ghchart.rshah.org/DD2727/Ahmad-Fadhil-Aulia-Faisal" alt="Afaf's Contribution Graph" />
 </p>
 
 ---
@@ -78,14 +68,8 @@
 
 ## 👀 Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Ahmad-Fadhil-Aulia-Faisal&style=for-the-badge&color=000000&label=VISITORS)
-
----
-
-## 💡 Random Dev Quote
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteCategory=programming" alt="random quote"/>
+  <img src="https://komarev.com/ghpvc/?username=Ahmad-Fadhil-Aulia-Faisal&style=for-the-badge&color=000000&label=VISITORS" alt="Visitor Count" />
 </p>
 
 ---
